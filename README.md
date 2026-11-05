@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Alie 👋
 
-<!--
-**Altaanaa99/Altaanaa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a licensed cosmetologist learning data analysis. I like turning real-world questions into answers with data.
 
-Here are some ideas to get you started:
+### 🔧 What I'm learning
+- **SQL** (SQLite): joins, aggregations, business questions
+- **Python**: pandas and matplotlib for analysis and charts
+- **Git & GitHub**: VS Code and GitHub Desktop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- **[salon-sql-analysis](https://github.com/Altaanaa99/salon-sql-analysis)**: a SQL database of a salon's clients, services, stylists and appointments, with queries answering 9 business questions
+- **[Titanic-analysis](https://github.com/Altaanaa99/Titanic-analysis)**: survival analysis of Titanic passengers by class, sex, age and fare, using Python
+
+### 💼 Open to
+Remote, part-time roles (about 20 hrs/week) in data entry, reporting or junior data analysis.
