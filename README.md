@@ -8,7 +8,7 @@ I'm a licensed cosmetologist learning data analysis. I like turning real-world q
 - **Git & GitHub**: VS Code and GitHub Desktop
 
 ### 📂 Projects
-- **[salon-sql-analysis](https://github.com/Altaanaa99/salon-sql-analysis)**: a SQL database of a salon's clients, services, stylists and appointments, with queries answering 9 business questions
+- **[salon-sql-analysis](https://github.com/Altaanaa99/salon-sql-analysis)**: a SQL database of a salon's clients, services, stylists and appointments, with queries answering 9 business questions, plus Google Sheets dashboard with 4 charts.
 - **[Titanic-analysis](https://github.com/Altaanaa99/Titanic-analysis)**: survival analysis of Titanic passengers by class, sex, age and fare, using Python
 
 ### 💼 Open to
